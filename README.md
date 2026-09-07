@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Sathana B
+### Register Number: 212225040389
+<img width="1917" height="1018" alt="Screenshot 2026-09-06 212848" src="https://github.com/user-attachments/assets/10efa7e2-1e03-43ea-b1cc-da493c2303d1" />
+<img width="1917" height="1021" alt="Screenshot 2026-09-06 212910" src="https://github.com/user-attachments/assets/0ea80fdf-046d-45cc-a898-dfef7b144fea" />
+![Uploading Screenshot 2026-09-06 212927.png…]()
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
